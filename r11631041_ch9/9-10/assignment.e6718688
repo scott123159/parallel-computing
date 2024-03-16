@@ -1,0 +1,5 @@
+cc1plus: warning: command line option ‘-std=c99’ is valid for C/ObjC but not for C++ [enabled by default]
+exer09_10.c: In function ‘int main(int, char**)’:
+exer09_10.c:40:54: error: ‘pruint64f’ was not declared in this scope
+             pruint64f("%d: %llu\r\n", world_rank, num);
+                                                      ^
